@@ -1,0 +1,30 @@
+
+** 2016-02-01 17:19:14.755954 **:
+MarGo: Missing required environment variables: GOPATH
+See the `Quirks` section of USAGE.md for info
+--------------------------------
+
+** 2016-02-05 18:19:23.219174 **:
+MarGo: Missing required environment variables: GOPATH
+See the `Quirks` section of USAGE.md for info
+--------------------------------
+
+** 2016-02-05 18:21:44.569137 **:
+MarGo: Missing required environment variables: GOROOT
+See the `Quirks` section of USAGE.md for info
+--------------------------------
+Gocode pkg: "github.com/alioygur/piklook-corporate"
+Gocode env: gocode.margoEnv{LibPath:"/go/pkg/linux_amd64:/home/ali/go/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/go", GOPATH:"/home/ali/go", InstallSuffix:""}
+Gocode pkg: "github.com/alioygur/piklook-corporate"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/ali/go/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/ali/go", InstallSuffix:""}
+Gocode pkg: "github.com/alioygur/piklook-corporate/app"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/ali/go/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/ali/go", InstallSuffix:""}
+Gocode pkg: "github.com/alioygur/piklook-corporate"
+Gocode pkg: "github.com/alioygur/piklook-corporate/app"
+Gocode pkg: "github.com/alioygur/piklook-corporate"
+Gocode pkg: "github.com/alioygur/piklook-corporate"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/ali/go/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/ali/go", InstallSuffix:""}
+Gocode pkg: "github.com/alioygur/piklook-corporate"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/ali/go/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/ali/go", InstallSuffix:""}
+Gocode pkg: "github.com/alioygur/piklook-corporate"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/ali/go/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/ali/go", InstallSuffix:""}

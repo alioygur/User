@@ -1,0 +1,34 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1Self",
+		"All Autocomplete",
+		"BracketHighlighter",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"GoSublime",
+		"HTML5",
+		"JavaScript Snippets",
+		"JsFormat",
+		"Makefile Plus",
+		"Package Control",
+		"PHP Companion",
+		"Phpcs",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"SublimeLinter-php",
+		"Terminal",
+		"Theme - Glacier",
+		"Theme - Soda",
+		"Theme - Spacegray",
+		"TodoReview"
+	]
+}
