@@ -28,3 +28,174 @@ Gocode pkg: "github.com/alioygur/piklook-corporate"
 Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/ali/go/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/ali/go", InstallSuffix:""}
 Gocode pkg: "github.com/alioygur/piklook-corporate"
 Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/ali/go/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/ali/go", InstallSuffix:""}
+Gocode pkg: "github.com/alioygur/boilerplate/app/src/service/test"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/ali/go/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/ali/go", InstallSuffix:""}
+Gocode pkg: "github.com/alioygur/boilerplate/app/src/service/app/routes"
+Gocode pkg: "github.com/alioygur/boilerplate/app/src/service/app"
+Gocode pkg: "github.com/alioygur/boilerplate/app/src/service"
+Gocode pkg: "github.com/alioygur/piklook-corporate"
+Gocode pkg: "github.com/alioygur/piklook-corporate/app"
+Gocode pkg: "github.com/alioygur/boilerplate/app/src/service/app"
+Gocode pkg: "github.com/alioygur/boilerplate/app/src/service"
+Gocode pkg: "github.com/alioygur/boilerplate/app/src/service/app"
+Gocode pkg: "github.com/alioygur/piklook-corporate/app"
+Gocode pkg: "github.com/alioygur/skills-service/app/src/service/app"
+Gocode pkg: "github.com/alioygur/social-accounts/app/src/service/app/routes"
+Gocode pkg: "github.com/alioygur/social-accounts/app/src/service/app/services"
+Gocode pkg: "github.com/alioygur/social-accounts/app/src/service/app/routes"
+Gocode pkg: "github.com/alioygur/skills-service/app/src/service/app"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/ali/go/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/ali/go", InstallSuffix:""}
+Gocode pkg: "github.com/alioygur/social-accounts/app/src/service/app/routes"
+Gocode pkg: "github.com/alioygur/social-accounts/app/src/service/app/services"
+Gocode pkg: "github.com/alioygur/social-accounts/app/src/service/app/routes"
+Gocode pkg: "github.com/alioygur/gomongo"
+Gocode pkg: "github.com/alioygur/social-accounts/app/src/service/app/services"
+Gocode pkg: "github.com/alioygur/gomongo"
+Gocode pkg: "github.com/alioygur/social-accounts/app/src/service/app/services"
+Gocode pkg: "github.com/alioygur/gomongo"
+
+** 2016-02-17 17:39:43.166812 **:
+GsEV: Error String required
+--------------------------------
+
+** 2016-02-17 17:39:48.652662 **:
+GsEV: Error String required
+--------------------------------
+
+** 2016-02-17 17:39:53.141648 **:
+GsEV: Error String required
+--------------------------------
+
+** 2016-02-17 17:39:55.875361 **:
+GsEV: Error String required
+--------------------------------
+
+** 2016-02-17 17:40:15.771278 **:
+GsEV: Error String required
+--------------------------------
+
+** 2016-02-17 17:40:15.771475 **:
+GsEV: Error String required
+--------------------------------
+
+** 2016-02-17 17:40:21.181548 **:
+GsEV: Error String required
+--------------------------------
+
+** 2016-02-17 17:40:21.181855 **:
+GsEV: Error String required
+--------------------------------
+
+** 2016-02-17 17:41:24.614681 **:
+GsEV: Error String required
+--------------------------------
+
+** 2016-02-17 17:41:24.615026 **:
+GsEV: Error String required
+--------------------------------
+
+** 2016-02-17 17:41:37.363647 **:
+GsEV: Error String required
+--------------------------------
+
+** 2016-02-17 17:41:37.363898 **:
+GsEV: Error String required
+--------------------------------
+
+** 2016-02-17 17:44:18.320250 **:
+GsEV: Error String required
+--------------------------------
+
+** 2016-02-17 17:44:18.320480 **:
+GsEV: Error String required
+--------------------------------
+
+** 2016-02-17 17:44:23.547203 **:
+GsEV: Error String required
+--------------------------------
+
+** 2016-02-17 17:44:23.547438 **:
+GsEV: Error String required
+--------------------------------
+Gocode pkg: "github.com/alioygur/social-accounts/app/src/service/app/services"
+Gocode pkg: "github.com/alioygur/gomongo"
+Gocode pkg: "github.com/alioygur/gomongo/app/models"
+Gocode pkg: "github.com/alioygur/gomongo"
+Gocode pkg: "github.com/alioygur/gomongo/app/models"
+Gocode pkg: "github.com/alioygur/gomongo"
+Gocode pkg: "github.com/alioygur/gomongo/app/models"
+Gocode pkg: "github.com/alioygur/gomongo/app/domain"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/ali/go/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/ali/go", InstallSuffix:""}
+Gocode pkg: "github.com/alioygur/quiz/app"
+Gocode pkg: "github.com/alioygur/piklook-corporate"
+Gocode pkg: "github.com/alioygur/piklook-corporate/app"
+Gocode pkg: "github.com/alioygur/piklook-corporate"
+Gocode pkg: "github.com/alioygur/piklook-corporate/app"
+Gocode pkg: "github.com/alioygur/piklook-corporate"
+Gocode pkg: "github.com/alioygur/piklook-corporate/app"
+Gocode pkg: "github.com/alioygur/piklook-corporate"
+Gocode pkg: "github.com/alioygur/piklook-corporate/app"
+Gocode pkg: "github.com/alioygur/piklook-corporate"
+
+** 2016-02-18 18:57:25.115701 **:
+GsLint: Error running command ['swagger generate spec -o swagger.json']: GoSublime: Traceback (most recent call last):
+  File "/home/ali/.config/sublime-text-3/Packages/GoSublime/gosubl/gsshell.py", line 91, in proc
+    bufsize=bufsize
+  File "./subprocess.py", line 824, in __init__
+  File "./subprocess.py", line 1448, in _execute_child
+FileNotFoundError: [Errno 2] No such file or directory: 'swagger generate spec -o swagger.json'
+--------------------------------
+
+** 2016-02-18 18:57:46.573689 **:
+GsLint: Error running command ['swagger generate spec -o swagger.json']: GoSublime: Traceback (most recent call last):
+  File "/home/ali/.config/sublime-text-3/Packages/GoSublime/gosubl/gsshell.py", line 91, in proc
+    bufsize=bufsize
+  File "./subprocess.py", line 824, in __init__
+  File "./subprocess.py", line 1448, in _execute_child
+FileNotFoundError: [Errno 2] No such file or directory: 'swagger generate spec -o swagger.json'
+--------------------------------
+Gocode pkg: "github.com/alioygur/piklook-corporate/app"
+Gocode pkg: "github.com/alioygur/piklook-corporate"
+Gocode pkg: "github.com/alioygur/piklook-corporate/app"
+Gocode pkg: "github.com/alioygur/piklook-corporate/app"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/ali/go/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/ali/go", InstallSuffix:""}
+Gocode pkg: "github.com/alioygur/piklook-corporate"
+Gocode pkg: "github.com/alioygur/piklook-corporate/app"
+Gocode pkg: "github.com/alioygur/piklook-corporate"
+Gocode pkg: "github.com/alioygur/social-accounts/app/src/contetto/log"
+Gocode pkg: "github.com/alioygur/social-accounts/app/src/service/app/routes"
+Gocode pkg: "github.com/alioygur/piklook-corporate"
+Gocode pkg: "github.com/alioygur/social-accounts/app/src/service/app/routes"
+Gocode pkg: "github.com/alioygur/social-accounts/app/src/contetto/log"
+Gocode pkg: "github.com/alioygur/piklook-corporate"
+Gocode pkg: "github.com/alioygur/piklook-corporate/app"
+Gocode pkg: "github.com/alioygur/piklook-corporate"
+Gocode pkg: "github.com/alioygur/piklook-corporate/app"
+Gocode pkg: "github.com/alioygur/piklook-corporate/app/lib"
+Gocode pkg: "github.com/alioygur/piklook-corporate/app"
+Gocode pkg: "github.com/alioygur/piklook-corporate"
+Gocode pkg: "github.com/alioygur/piklook-corporate/app"
+Gocode pkg: "github.com/alioygur/piklook-corporate"
+Gocode pkg: "github.com/alioygur/piklook-corporate/app"
+Gocode pkg: "github.com/alioygur/piklook-corporate"
+Gocode pkg: "github.com/alioygur/piklook-corporate/app"
+Gocode pkg: "github.com/alioygur/piklook-corporate/app/domain"
+Gocode pkg: "github.com/alioygur/piklook-corporate/app"
+Gocode pkg: "github.com/alioygur/piklook-corporate"
+Gocode pkg: "github.com/alioygur/piklook-corporate/app"
+Gocode pkg: "github.com/alioygur/piklook-corporate"
+Gocode pkg: "github.com/alioygur/piklook-corporate/app"
+Gocode pkg: "github.com/alioygur/piklook-corporate"
+Gocode pkg: "github.com/alioygur/piklook-corporate/app"
+Gocode pkg: "github.com/alioygur/piklook-corporate"
+Gocode pkg: "github.com/alioygur/piklook-corporate/app"
+Gocode pkg: "github.com/alioygur/piklook-corporate/app/domain"
+Gocode pkg: "github.com/alioygur/piklook-corporate/app"
+Gocode pkg: "github.com/alioygur/piklook-corporate"
+Gocode pkg: "github.com/alioygur/piklook-corporate/app"
+Gocode pkg: "github.com/alioygur/piklook-corporate"
+Gocode pkg: "github.com/alioygur/piklook-corporate/app"
+Gocode pkg: "github.com/alioygur/piklook-corporate/app/domain"
+Gocode pkg: "github.com/alioygur/piklook-corporate/app"
+Gocode pkg: "github.com/alioygur/piklook-corporate/app/domain"
+Gocode pkg: "github.com/alioygur/piklook-corporate/app"
