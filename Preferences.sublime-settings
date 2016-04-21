@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/User/SublimeLinter/base16-ocean.dark (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/base16-eighties.dark (SL).tmTheme",
 	"folder_exclude_patterns":
 	[
 		"node_modules",
@@ -9,7 +9,7 @@
 		"CVS"
 	],
 	"font_face": "Ubuntu Mono",
-	"font_size": 14,
+	"font_size": 15,
 	"highlight_line": true,
 	"ignored_packages":
 	[
@@ -17,6 +17,6 @@
 	],
 	"line_padding_bottom": 4,
 	"line_padding_top": 4,
-	"theme": "Spacegray.sublime-theme",
+	"theme": "Spacegray Eighties.sublime-theme",
 	"word_wrap": false
 }

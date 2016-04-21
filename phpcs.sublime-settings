@@ -28,7 +28,7 @@
     "phpcs_show_errors_in_status": true,
 
     // Show the errors in the quick panel so you can then goto line
-    "phpcs_show_quick_panel": true,
+    "phpcs_show_quick_panel": false,
 
     // The path to the php executable.
     // Needed for windows, or anyone who doesn't/can't make phars
@@ -83,7 +83,7 @@
     "php_cs_fixer_on_save": true,
 
     // Show the quick panel
-    "php_cs_fixer_show_quick_panel": true,
+    "php_cs_fixer_show_quick_panel": false,
 
     // Path to where you have the php-cs-fixer installed
     "php_cs_fixer_executable_path": "/home/ali/.composer/vendor/bin/php-cs-fixer",

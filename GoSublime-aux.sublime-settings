@@ -1,5 +1,20 @@
 {
-	"ann": "a16.01.09-1",
-	"install_version": "r16.01.09-1",
-	"version": "r16.01.09-1"
+	"9o.hist./home/ali/dev/email-subscribers/app/src/service":
+	[
+		"help",
+		"env",
+		"run main.go",
+		"./bin/service",
+		"build"
+	],
+	"9o.hist./home/ali/go/src/github.com/alioygur/godash-test":
+	[
+		"run $_fn",
+		"help",
+		"go run",
+		"run"
+	],
+	"ann": "a16.04.08-2",
+	"install_version": "r16.03.22-1",
+	"version": "r16.03.22-1"
 }

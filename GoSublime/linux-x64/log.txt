@@ -1,201 +1,504 @@
-
-** 2016-02-01 17:19:14.755954 **:
-MarGo: Missing required environment variables: GOPATH
-See the `Quirks` section of USAGE.md for info
---------------------------------
-
-** 2016-02-05 18:19:23.219174 **:
-MarGo: Missing required environment variables: GOPATH
-See the `Quirks` section of USAGE.md for info
---------------------------------
-
-** 2016-02-05 18:21:44.569137 **:
-MarGo: Missing required environment variables: GOROOT
-See the `Quirks` section of USAGE.md for info
---------------------------------
-Gocode pkg: "github.com/alioygur/piklook-corporate"
-Gocode env: gocode.margoEnv{LibPath:"/go/pkg/linux_amd64:/home/ali/go/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/go", GOPATH:"/home/ali/go", InstallSuffix:""}
-Gocode pkg: "github.com/alioygur/piklook-corporate"
+Gocode pkg: "service/app/routes"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/ali/dev/email-subscribers/app/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/ali/dev/email-subscribers/app", InstallSuffix:""}
+Gocode pkg: "github.com/alioygur/goaligo/app/lib"
 Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/ali/go/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/ali/go", InstallSuffix:""}
-Gocode pkg: "github.com/alioygur/piklook-corporate/app"
+Gocode pkg: "service/app/routes"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/ali/dev/email-subscribers/app/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/ali/dev/email-subscribers/app", InstallSuffix:""}
+Gocode pkg: "github.com/alioygur/goaligo/app/lib"
 Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/ali/go/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/ali/go", InstallSuffix:""}
-Gocode pkg: "github.com/alioygur/piklook-corporate"
-Gocode pkg: "github.com/alioygur/piklook-corporate/app"
-Gocode pkg: "github.com/alioygur/piklook-corporate"
-Gocode pkg: "github.com/alioygur/piklook-corporate"
+Gocode pkg: "service/app/routes"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/ali/dev/email-subscribers/app/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/ali/dev/email-subscribers/app", InstallSuffix:""}
+Gocode pkg: "service/app/services"
+Gocode pkg: "service/app/routes"
+Gocode pkg: "github.com/alioygur/goaligo/app/lib"
 Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/ali/go/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/ali/go", InstallSuffix:""}
-Gocode pkg: "github.com/alioygur/piklook-corporate"
-Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/ali/go/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/ali/go", InstallSuffix:""}
-Gocode pkg: "github.com/alioygur/piklook-corporate"
-Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/ali/go/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/ali/go", InstallSuffix:""}
-Gocode pkg: "github.com/alioygur/boilerplate/app/src/service/test"
-Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/ali/go/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/ali/go", InstallSuffix:""}
-Gocode pkg: "github.com/alioygur/boilerplate/app/src/service/app/routes"
-Gocode pkg: "github.com/alioygur/boilerplate/app/src/service/app"
-Gocode pkg: "github.com/alioygur/boilerplate/app/src/service"
-Gocode pkg: "github.com/alioygur/piklook-corporate"
-Gocode pkg: "github.com/alioygur/piklook-corporate/app"
-Gocode pkg: "github.com/alioygur/boilerplate/app/src/service/app"
-Gocode pkg: "github.com/alioygur/boilerplate/app/src/service"
-Gocode pkg: "github.com/alioygur/boilerplate/app/src/service/app"
-Gocode pkg: "github.com/alioygur/piklook-corporate/app"
-Gocode pkg: "github.com/alioygur/skills-service/app/src/service/app"
+Gocode pkg: "service/app/routes"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/ali/dev/email-subscribers/app/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/ali/dev/email-subscribers/app", InstallSuffix:""}
+Gocode pkg: "service/app/lib"
+Gocode pkg: "service/app/routes"
+Gocode pkg: "service/app/lib"
+Gocode pkg: "service/app/routes"
+Gocode pkg: "service/app/lib"
+Gocode pkg: "service/app/services"
+Gocode pkg: "service/app/routes"
+Gocode pkg: "service/app/lib"
+Gocode pkg: "service/app/routes"
+Gocode pkg: "service/app/services"
+Gocode pkg: "service/app/routes"
+Gocode pkg: "service/app/services"
+Gocode pkg: "service/app/routes"
+Gocode pkg: "service/app/lib"
+Gocode pkg: "service/app/routes"
+Gocode pkg: "service/app/lib"
+Gocode pkg: "service/app/routes"
+Gocode pkg: "service/app/lib"
+Gocode pkg: "service/app/routes"
+Gocode pkg: "service/app/lib"
+Gocode pkg: "service/app/routes"
+Gocode pkg: "service/app/lib"
+Gocode pkg: "service/app/routes"
+Gocode pkg: "service/app/lib"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/ali/dev/email-subscribers/app/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/ali/dev/email-subscribers/app", InstallSuffix:""}
+Gocode pkg: "service/app/routes"
+Gocode pkg: "service/app/lib"
+Gocode pkg: "service/app/routes"
+Gocode pkg: "service/app/lib"
 Gocode pkg: "github.com/alioygur/social-accounts/app/src/service/app/routes"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/ali/go/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/ali/go", InstallSuffix:""}
+Gocode pkg: "service/app/lib"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/ali/dev/email-subscribers/app/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/ali/dev/email-subscribers/app", InstallSuffix:""}
+Gocode pkg: "service/app/routes"
+Gocode pkg: "service/app/lib"
+Gocode pkg: "service/app/routes"
+Gocode pkg: "service/app/lib"
+Gocode pkg: "service/app/routes"
+Gocode pkg: "service/app/lib"
+Gocode pkg: "service/app/routes"
+Gocode pkg: "service/app/lib"
+Gocode pkg: "service/app/routes"
+Gocode pkg: "service/app/lib"
+Gocode pkg: "service/app/services"
+Gocode pkg: "service/app/lib"
+Gocode pkg: "service/app/routes"
+Gocode pkg: "service/app"
+Gocode pkg: "service"
+Gocode pkg: "service/app"
+Gocode pkg: "service"
+Gocode pkg: "service/app/routes"
+Gocode pkg: "service"
+Gocode pkg: "service/app"
+Gocode pkg: "github.com/alioygur/goaligo/app/lib"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/ali/go/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/ali/go", InstallSuffix:""}
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo/app/lib"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo/app/lib"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo/app/services"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo/app/services"
+Gocode pkg: "github.com/alioygur/goaligo/app/lib"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo/app/lib"
+Gocode pkg: "github.com/alioygur/goaligo/app/services"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/ali/go/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/ali/go", InstallSuffix:""}
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/swagger-test"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/ali/go/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/ali/go", InstallSuffix:""}
+Gocode pkg: "github.com/alioygur/goaligo"
+Gocode pkg: "github.com/alioygur/goaligo/app/services"
+Gocode pkg: "github.com/alioygur/goaligo/app/lib"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo/app/lib"
+Gocode pkg: "github.com/alioygur/goaligo"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo"
+Gocode pkg: "github.com/alioygur/goaligo/app/lib"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo/app/services"
+Gocode pkg: "github.com/alioygur/goaligo/app/lib"
+Gocode pkg: "github.com/alioygur/goaligo"
+Gocode pkg: "github.com/alioygur/goaligo/app/lib"
+Gocode pkg: "github.com/alioygur/goaligo"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo/app/lib"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo/app/services"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/ali/go/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/ali/go", InstallSuffix:""}
+Gocode pkg: "github.com/alioygur/goaligo"
+Gocode pkg: "."
+Gocode pkg: "github.com/alioygur/import-cycle-problem-test"
+Gocode pkg: "github.com/alioygur/import-cycle-problem-test/a"
+Gocode pkg: "github.com/alioygur/import-cycle-problem-test/b"
+Gocode pkg: "github.com/alioygur/import-cycle-problem-test/a"
+Gocode pkg: "github.com/alioygur/import-cycle-problem-test/b"
+Gocode pkg: "github.com/alioygur/import-cycle-problem-test/a"
+Gocode pkg: "github.com/alioygur/import-cycle-problem-test"
+Gocode pkg: "github.com/alioygur/goaligo/app/lib"
+Gocode pkg: "github.com/alioygur/goaligo/app/services"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo/app/lib"
+Gocode pkg: "github.com/alioygur/goaligo/app"
 Gocode pkg: "github.com/alioygur/social-accounts/app/src/service/app/services"
-Gocode pkg: "github.com/alioygur/social-accounts/app/src/service/app/routes"
-Gocode pkg: "github.com/alioygur/skills-service/app/src/service/app"
+Gocode pkg: "github.com/alioygur/goaligo/app/lib"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo/app/services"
+margo: 2016/02/29 18:26:00 broker.go:105: gocode_complete#mg9.autoken.75f4b210-48de-46ef-9ab1-3730602c0193 PANIC: runtime error: slice bounds out of range
+goroutine 52 [running]:
+main.(*Broker).call.func1(0xc820570020, 0xc82000ad20)
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/margo/broker.go:104 +0xb2
+gosubli.me/something-borrowed/gocode.collect_package_imports(0xc820b20050, 0x41, 0xc820b6dde0, 0x1, 0x1, 0xc820154000, 0x0, 0x0, 0x0)
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/something-borrowed/gocode/declcache.go:33 +0x517
+gosubli.me/something-borrowed/gocode.(*auto_complete_file).process_data(0xc82014e9a0, 0xc821137000, 0xd76, 0xd76)
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/something-borrowed/gocode/autocompletefile.go:76 +0x29d
+gosubli.me/something-borrowed/gocode.(*auto_complete_context).apropos(0xc820134cc0, 0xc821136000, 0xd75, 0x1000, 0xc820b20050, 0x41, 0x1a, 0x0, 0x0, 0x0, ...)
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/something-borrowed/gocode/autocompletecontext.go:253 +0x2a2
+gosubli.me/something-borrowed/gocode.(*margoState).Complete(0xc8200fe9a0, 0xc820669900, 0x0, 0x0, 0xc820669990, 0xd, 0xc820669b10, 0x1, 0x1, 0xc821136000, ...)
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/something-borrowed/gocode/gosublime_gocode_bridge.go:78 +0x187
+main.(*mGocode).completions(0xc8205a9600, 0xc821136000, 0xd75, 0x1000, 0xc820b20050, 0x41, 0x1a, 0x0, 0x0, 0x0)
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/margo/m_gocode.go:95 +0x1c2
+main.(*mGocode).Call(0xc8205a9600, 0x0, 0x0, 0x0, 0x0)
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/margo/m_gocode.go:76 +0x7e6
+main.(*Broker).call(0xc82000ad20, 0xc820570020, 0x7f0462456a50, 0xc8205a9600)
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/margo/broker.go:113 +0x95
+main.(*Broker).worker(0xc82000ad20, 0xc820122670, 0xc82013e300)
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/margo/broker.go:188 +0xdb
+created by main.(*Broker).Loop
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 1 [syscall]:
+syscall.Syscall(0x0, 0x0, 0xc82001d000, 0x1000, 0x0, 0x0, 0x1e00)
+	/usr/local/go/src/syscall/asm_linux_amd64.s:18 +0x5
+syscall.read(0x0, 0xc82001d000, 0x1000, 0x1000, 0xc821132176, 0x0, 0x0)
+	/usr/local/go/src/syscall/zsyscall_linux_amd64.go:783 +0x5f
+syscall.Read(0x0, 0xc82001d000, 0x1000, 0x1000, 0x7f04626464b8, 0x0, 0x0)
+	/usr/local/go/src/syscall/syscall_unix.go:160 +0x4d
+os.(*File).read(0xc82002e008, 0xc82001d000, 0x1000, 0x1000, 0x7b, 0x0, 0x0)
+	/usr/local/go/src/os/file_unix.go:211 +0x53
+os.(*File).Read(0xc82002e008, 0xc82001d000, 0x1000, 0x1000, 0xc820bf965a, 0x0, 0x0)
+	/usr/local/go/src/os/file.go:95 +0x8a
+bufio.(*Reader).fill(0xc82013e240)
+	/usr/local/go/src/bufio/bufio.go:97 +0x1e9
+bufio.(*Reader).ReadSlice(0xc82013e240, 0xa, 0x0, 0x0, 0x0, 0x0, 0x0)
+	/usr/local/go/src/bufio/bufio.go:328 +0x21a
+bufio.(*Reader).ReadBytes(0xc82013e240, 0xc82013e30a, 0x0, 0x0, 0x0, 0x0, 0x0)
+	/usr/local/go/src/bufio/bufio.go:406 +0xa9
+main.(*Broker).accept(0xc82000ad20, 0xc82013e300, 0xc82000ad00)
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/margo/broker.go:128 +0x44
+main.(*Broker).Loop(0xc82000ad20, 0xaa0001)
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/margo/broker.go:213 +0x33b
+main.main()
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/margo/main.go:140 +0xbdb
+
+goroutine 20 [chan receive]:
+main.init.2.func1()
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/margo/g_autoinst.go:114 +0x85
+created by main.init.2
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/margo/g_autoinst.go:117 +0x2b
+
+goroutine 19 [chan receive, 2 minutes]:
+gosubli.me/something-borrowed/gocode.new_file_reader.func1(0xc820136198)
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/something-borrowed/gocode/utils.go:162 +0x7b
+created by gosubli.me/something-borrowed/gocode.new_file_reader
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/something-borrowed/gocode/utils.go:166 +0x88
+
+goroutine 21 [sleep, locked to thread]:
+time.Sleep(0x77359400)
+	/usr/local/go/src/runtime/time.go:59 +0xf9
+main.startOomKiller.func1(0x3e8)
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/margo/oom.go:31 +0x429
+created by main.startOomKiller
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/margo/oom.go:33 +0x35
+
+goroutine 22 [sleep]:
+time.Sleep(0x6fc23ac00)
+	/usr/local/go/src/runtime/time.go:59 +0xf9
+main.main.func1(0x6fc23ac00, 0xc82000ad20, 0xc820122520)
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/margo/main.go:122 +0x33
+created by main.main
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/margo/main.go:131 +0xb7f
+
+goroutine 23 [chan receive, 45 minutes]:
+main.main.func2(0xc82000ad20)
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/margo/main.go:135 +0x94
+created by main.main
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/margo/main.go:138 +0xba4
+
+goroutine 25 [chan receive]:
+main.(*Broker).worker(0xc82000ad20, 0xc820122670, 0xc82013e300)
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 26 [chan receive]:
+main.(*Broker).worker(0xc82000ad20, 0xc820122670, 0xc82013e300)
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 27 [chan receive]:
+main.(*Broker).worker(0xc82000ad20, 0xc820122670, 0xc82013e300)
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 28 [chan receive]:
+main.(*Broker).worker(0xc82000ad20, 0xc820122670, 0xc82013e300)
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 29 [chan receive]:
+main.(*Broker).worker(0xc82000ad20, 0xc820122670, 0xc82013e300)
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 30 [chan receive]:
+main.(*Broker).worker(0xc82000ad20, 0xc820122670, 0xc82013e300)
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 31 [chan receive]:
+main.(*Broker).worker(0xc82000ad20, 0xc820122670, 0xc82013e300)
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 32 [chan receive]:
+main.(*Broker).worker(0xc82000ad20, 0xc820122670, 0xc82013e300)
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 49 [chan receive]:
+main.(*Broker).worker(0xc82000ad20, 0xc820122670, 0xc82013e300)
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 50 [chan receive]:
+main.(*Broker).worker(0xc82000ad20, 0xc820122670, 0xc82013e300)
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 51 [chan receive]:
+main.(*Broker).worker(0xc82000ad20, 0xc820122670, 0xc82013e300)
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 53 [chan receive]:
+main.(*Broker).worker(0xc82000ad20, 0xc820122670, 0xc82013e300)
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 54 [chan receive]:
+main.(*Broker).worker(0xc82000ad20, 0xc820122670, 0xc82013e300)
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 55 [chan receive]:
+main.(*Broker).worker(0xc82000ad20, 0xc820122670, 0xc82013e300)
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 56 [chan receive]:
+main.(*Broker).worker(0xc82000ad20, 0xc820122670, 0xc82013e300)
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 57 [chan receive]:
+main.(*Broker).worker(0xc82000ad20, 0xc820122670, 0xc82013e300)
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 58 [chan receive]:
+main.(*Broker).worker(0xc82000ad20, 0xc820122670, 0xc82013e300)
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 59 [chan receive]:
+main.(*Broker).worker(0xc82000ad20, 0xc820122670, 0xc82013e300)
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 60 [chan receive]:
+main.(*Broker).worker(0xc82000ad20, 0xc820122670, 0xc82013e300)
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/home/ali/.config/sublime-text-3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+
+
+** 2016-02-29 18:26:00.835659 **:
+GsComplete: broker: gocode_complete#mg9.autoken.75f4b210-48de-46ef-9ab1-3730602c0193 PANIC
+--------------------------------
+Gocode pkg: "github.com/alioygur/goaligo/app/services"
 Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/ali/go/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/ali/go", InstallSuffix:""}
-Gocode pkg: "github.com/alioygur/social-accounts/app/src/service/app/routes"
-Gocode pkg: "github.com/alioygur/social-accounts/app/src/service/app/services"
-Gocode pkg: "github.com/alioygur/social-accounts/app/src/service/app/routes"
-Gocode pkg: "github.com/alioygur/gomongo"
-Gocode pkg: "github.com/alioygur/social-accounts/app/src/service/app/services"
-Gocode pkg: "github.com/alioygur/gomongo"
-Gocode pkg: "github.com/alioygur/social-accounts/app/src/service/app/services"
-Gocode pkg: "github.com/alioygur/gomongo"
-
-** 2016-02-17 17:39:43.166812 **:
-GsEV: Error String required
---------------------------------
-
-** 2016-02-17 17:39:48.652662 **:
-GsEV: Error String required
---------------------------------
-
-** 2016-02-17 17:39:53.141648 **:
-GsEV: Error String required
---------------------------------
-
-** 2016-02-17 17:39:55.875361 **:
-GsEV: Error String required
---------------------------------
-
-** 2016-02-17 17:40:15.771278 **:
-GsEV: Error String required
---------------------------------
-
-** 2016-02-17 17:40:15.771475 **:
-GsEV: Error String required
---------------------------------
-
-** 2016-02-17 17:40:21.181548 **:
-GsEV: Error String required
---------------------------------
-
-** 2016-02-17 17:40:21.181855 **:
-GsEV: Error String required
---------------------------------
-
-** 2016-02-17 17:41:24.614681 **:
-GsEV: Error String required
---------------------------------
-
-** 2016-02-17 17:41:24.615026 **:
-GsEV: Error String required
---------------------------------
-
-** 2016-02-17 17:41:37.363647 **:
-GsEV: Error String required
---------------------------------
-
-** 2016-02-17 17:41:37.363898 **:
-GsEV: Error String required
---------------------------------
-
-** 2016-02-17 17:44:18.320250 **:
-GsEV: Error String required
---------------------------------
-
-** 2016-02-17 17:44:18.320480 **:
-GsEV: Error String required
---------------------------------
-
-** 2016-02-17 17:44:23.547203 **:
-GsEV: Error String required
---------------------------------
-
-** 2016-02-17 17:44:23.547438 **:
-GsEV: Error String required
---------------------------------
-Gocode pkg: "github.com/alioygur/social-accounts/app/src/service/app/services"
-Gocode pkg: "github.com/alioygur/gomongo"
-Gocode pkg: "github.com/alioygur/gomongo/app/models"
-Gocode pkg: "github.com/alioygur/gomongo"
-Gocode pkg: "github.com/alioygur/gomongo/app/models"
-Gocode pkg: "github.com/alioygur/gomongo"
-Gocode pkg: "github.com/alioygur/gomongo/app/models"
-Gocode pkg: "github.com/alioygur/gomongo/app/domain"
+Gocode pkg: "github.com/alioygur/goaligo2/app/infrastructure"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo/app/lib"
+Gocode pkg: "github.com/alioygur/goaligo/app/services"
+Gocode pkg: "github.com/alioygur/goaligo/app/repo"
+Gocode pkg: "github.com/alioygur/goaligo/app/db"
+Gocode pkg: "github.com/alioygur/goaligo/app/domain"
+Gocode pkg: "github.com/alioygur/goaligo/app/db"
+Gocode pkg: "github.com/alioygur/goaligo2/app"
+Gocode pkg: "github.com/alioygur/goaligo/app/db"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo/app/services"
+Gocode pkg: "github.com/alioygur/goaligo/app/db"
+Gocode pkg: "github.com/alioygur/goaligo/app/services"
+Gocode pkg: "github.com/alioygur/goaligo/app/lib"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo/app/lib"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo/app/services"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo/app/lib"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo/app/services"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo/app/services"
+Gocode pkg: "github.com/alioygur/goaligo/app/domain"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo/app/lib"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo/app/errs"
+Gocode pkg: "github.com/alioygur/goaligo/app/lib"
+Gocode pkg: "github.com/alioygur/goaligo/app/errs"
+Gocode pkg: "github.com/alioygur/goaligo/app/services"
+Gocode pkg: "github.com/alioygur/goaligo/app/lib"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo/app"
 Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/ali/go/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/ali/go", InstallSuffix:""}
-Gocode pkg: "github.com/alioygur/quiz/app"
-Gocode pkg: "github.com/alioygur/piklook-corporate"
-Gocode pkg: "github.com/alioygur/piklook-corporate/app"
-Gocode pkg: "github.com/alioygur/piklook-corporate"
-Gocode pkg: "github.com/alioygur/piklook-corporate/app"
-Gocode pkg: "github.com/alioygur/piklook-corporate"
-Gocode pkg: "github.com/alioygur/piklook-corporate/app"
-Gocode pkg: "github.com/alioygur/piklook-corporate"
-Gocode pkg: "github.com/alioygur/piklook-corporate/app"
-Gocode pkg: "github.com/alioygur/piklook-corporate"
-
-** 2016-02-18 18:57:25.115701 **:
-GsLint: Error running command ['swagger generate spec -o swagger.json']: GoSublime: Traceback (most recent call last):
-  File "/home/ali/.config/sublime-text-3/Packages/GoSublime/gosubl/gsshell.py", line 91, in proc
-    bufsize=bufsize
-  File "./subprocess.py", line 824, in __init__
-  File "./subprocess.py", line 1448, in _execute_child
-FileNotFoundError: [Errno 2] No such file or directory: 'swagger generate spec -o swagger.json'
---------------------------------
-
-** 2016-02-18 18:57:46.573689 **:
-GsLint: Error running command ['swagger generate spec -o swagger.json']: GoSublime: Traceback (most recent call last):
-  File "/home/ali/.config/sublime-text-3/Packages/GoSublime/gosubl/gsshell.py", line 91, in proc
-    bufsize=bufsize
-  File "./subprocess.py", line 824, in __init__
-  File "./subprocess.py", line 1448, in _execute_child
-FileNotFoundError: [Errno 2] No such file or directory: 'swagger generate spec -o swagger.json'
---------------------------------
-Gocode pkg: "github.com/alioygur/piklook-corporate/app"
-Gocode pkg: "github.com/alioygur/piklook-corporate"
-Gocode pkg: "github.com/alioygur/piklook-corporate/app"
-Gocode pkg: "github.com/alioygur/piklook-corporate/app"
+Gocode pkg: "github.com/alioygur/goaligo/app"
 Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/ali/go/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/ali/go", InstallSuffix:""}
-Gocode pkg: "github.com/alioygur/piklook-corporate"
-Gocode pkg: "github.com/alioygur/piklook-corporate/app"
-Gocode pkg: "github.com/alioygur/piklook-corporate"
-Gocode pkg: "github.com/alioygur/social-accounts/app/src/contetto/log"
-Gocode pkg: "github.com/alioygur/social-accounts/app/src/service/app/routes"
-Gocode pkg: "github.com/alioygur/piklook-corporate"
-Gocode pkg: "github.com/alioygur/social-accounts/app/src/service/app/routes"
-Gocode pkg: "github.com/alioygur/social-accounts/app/src/contetto/log"
-Gocode pkg: "github.com/alioygur/piklook-corporate"
-Gocode pkg: "github.com/alioygur/piklook-corporate/app"
-Gocode pkg: "github.com/alioygur/piklook-corporate"
-Gocode pkg: "github.com/alioygur/piklook-corporate/app"
-Gocode pkg: "github.com/alioygur/piklook-corporate/app/lib"
-Gocode pkg: "github.com/alioygur/piklook-corporate/app"
-Gocode pkg: "github.com/alioygur/piklook-corporate"
-Gocode pkg: "github.com/alioygur/piklook-corporate/app"
-Gocode pkg: "github.com/alioygur/piklook-corporate"
-Gocode pkg: "github.com/alioygur/piklook-corporate/app"
-Gocode pkg: "github.com/alioygur/piklook-corporate"
-Gocode pkg: "github.com/alioygur/piklook-corporate/app"
-Gocode pkg: "github.com/alioygur/piklook-corporate/app/domain"
-Gocode pkg: "github.com/alioygur/piklook-corporate/app"
-Gocode pkg: "github.com/alioygur/piklook-corporate"
-Gocode pkg: "github.com/alioygur/piklook-corporate/app"
-Gocode pkg: "github.com/alioygur/piklook-corporate"
-Gocode pkg: "github.com/alioygur/piklook-corporate/app"
-Gocode pkg: "github.com/alioygur/piklook-corporate"
-Gocode pkg: "github.com/alioygur/piklook-corporate/app"
-Gocode pkg: "github.com/alioygur/piklook-corporate"
-Gocode pkg: "github.com/alioygur/piklook-corporate/app"
-Gocode pkg: "github.com/alioygur/piklook-corporate/app/domain"
-Gocode pkg: "github.com/alioygur/piklook-corporate/app"
-Gocode pkg: "github.com/alioygur/piklook-corporate"
-Gocode pkg: "github.com/alioygur/piklook-corporate/app"
-Gocode pkg: "github.com/alioygur/piklook-corporate"
-Gocode pkg: "github.com/alioygur/piklook-corporate/app"
-Gocode pkg: "github.com/alioygur/piklook-corporate/app/domain"
-Gocode pkg: "github.com/alioygur/piklook-corporate/app"
-Gocode pkg: "github.com/alioygur/piklook-corporate/app/domain"
-Gocode pkg: "github.com/alioygur/piklook-corporate/app"
+Gocode pkg: "github.com/alioygur/goaligo/app/log"
+Gocode pkg: "github.com/alioygur/goaligo"
+Gocode pkg: "github.com/alioygur/goaligo/app/logger"
+Gocode pkg: "github.com/alioygur/goaligo"
+Gocode pkg: "github.com/alioygur/goaligo/app/logger"
+Gocode pkg: "github.com/alioygur/goaligo"
+Gocode pkg: "github.com/alioygur/goaligo/app/logger"
+Gocode pkg: "github.com/alioygur/goaligo"
+Gocode pkg: "github.com/alioygur/goaligo/app/logger"
+Gocode pkg: "github.com/alioygur/goaligo"
+Gocode pkg: "github.com/alioygur/goaligo/app/logger"
+Gocode pkg: "github.com/alioygur/goaligo"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo/app/logger"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo/app/logger"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo/app/logger"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/ali/go/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/ali/go", InstallSuffix:""}
+Gocode pkg: "github.com/alioygur/goaligo/app/services"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo/app/services"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo/app/lib"
+Gocode pkg: "github.com/alioygur/goaligo/app/services"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo/app/domain"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo/app/services"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo/app/services"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo/app/services"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo/app/services"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo/app/services"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo/app/services"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo/app/services"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo/app/lib"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo/app/lib"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo/app/lib"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo/app/lib"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo/app/services"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo/app/services"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo/app/services"
+Gocode pkg: "github.com/alioygur/goaligo/app/services"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/ali/go/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/ali/go", InstallSuffix:""}
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo/app/services"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo/app/services"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo/app/services"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo/app/services"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo/app/services"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo/app/services"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo/app/services"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo/app/services"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo/app/logger"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo"
+Gocode pkg: "github.com/alioygur/goaligo/app/services"
+Gocode pkg: "github.com/alioygur/goaligo/app/services"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/ali/go/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/ali/go", InstallSuffix:""}
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo/app/services"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo/app/services"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/goaligo/app/errs"
+Gocode pkg: "github.com/alioygur/goaligo/app"
+Gocode pkg: "github.com/alioygur/is"
+Gocode pkg: "github.com/alioygur/govalidator"
+Gocode pkg: "github.com/alioygur/is"
+Gocode pkg: "github.com/alioygur/govalidator"
+Gocode pkg: "github.com/alioygur/is"
+Gocode pkg: "github.com/alioygur/govalidator"
+Gocode pkg: "github.com/alioygur/is"
+Gocode pkg: "github.com/alioygur/godash"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/ali/go/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/ali/go", InstallSuffix:""}
+Gocode pkg: "github.com/alioygur/godash"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/ali/go/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/ali/go", InstallSuffix:""}
+Gocode pkg: "github.com/alioygur/godash-test"
+Gocode pkg: "github.com/alioygur/gores"
+Gocode pkg: "github.com/alioygur/godash"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/ali/go/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/ali/go", InstallSuffix:""}
+Gocode pkg: "github.com/alioygur/godash"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/ali/go/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/ali/go", InstallSuffix:""}
+Gocode pkg: "github.com/alioygur/godash"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/ali/go/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/ali/go", InstallSuffix:""}
+Gocode pkg: "github.com/alioygur/godash"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/ali/go/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/ali/go", InstallSuffix:""}
+Gocode pkg: "github.com/alioygur/godash"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/ali/go/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/ali/go", InstallSuffix:""}
+Gocode pkg: "github.com/alioygur/godash-test"
+Gocode pkg: "github.com/alioygur/godash-test"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/ali/go/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/ali/go", InstallSuffix:""}
+Gocode pkg: "github.com/alioygur/godash"
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/ali/go/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/ali/go", InstallSuffix:""}
+Gocode pkg: "github.com/alioygur/social-accounts/app/src/service/app/services"
+Gocode pkg: "github.com/alioygur/gores"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/ali/go/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/ali/go", InstallSuffix:""}
+Gocode pkg: "github.com/alioygur/gores"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/ali/go/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/ali/go", InstallSuffix:""}
+Gocode pkg: "github.com/alioygur/gores"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/ali/go/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/ali/go", InstallSuffix:""}

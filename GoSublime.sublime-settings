@@ -1,5 +1,5 @@
 {
-	"env": {"GOPATH": "$GOPATH", "PATH": "$GOPATH/bin:$PATH" },
+	"env": {"GOPATH": "$HOME/go", "PATH": "$GOPATH/bin:$PATH" },
 
  "fmt_cmd": ["goimports"],
  "gslint_enabled": false,
@@ -30,5 +30,16 @@
        // naturally, you can also bind this command `gs_comp_lint`
        // to a key binding if you want
        {"cmd": "gs_comp_lint"}
+   ],
+   "snippets":[
+    {
+      "match": {"global": true, "pkgname": "."},
+      "snippets": [
+        {"text": "log.Println(...)", "title": "", "value": "log.Println($1)"},
+        {"text": "log.Printf(...)", "title": "", "value": "log.Printf(\"%+v\", $1)"},
+        {"text": "if err != nil", "title": "", "value": "if err != nil {\n\treturn $1\n}"},
+        {"text": "ctx, _ = getCtx(r)", "title": "", "value": "ctx, _ := getCtx(r)"}
+      ]
+    }
    ]
 }
